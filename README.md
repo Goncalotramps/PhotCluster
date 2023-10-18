@@ -5,4 +5,4 @@ There's 2 important files, one that does the observation reduction and correctio
 
 The user should put all the .fits files in the same folder that he puts the .py file. The isochrones .txt file must be obtained in http://stev.oapd.inaf.it/cgi-bin/cmd_3.3 and the user must clear the # put in the line where the parameters names are.
 
-If you use the code, please cite it. It would be great. 
+If you use the code, please cite it as it is in citation.cff. It would be great. 
