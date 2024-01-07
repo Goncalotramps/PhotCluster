@@ -1,5 +1,5 @@
 # PhotCluster
-We have created a code to do the photometry of clusters and astronomical structures, using different observation images and filters in the same sky region and to analyse them.
+We have created a code to do the photometry of clusters and astronomical structures, using different observation images and filters in the same sky region and to analyze them.
 
 There's 2 important files, one that does the observation reduction and correction, photometry and magnitude calculation, as well as the HR diagram and the isochrone fitting (phot_cluster.py) and another one that the user can use in order to obtain a estimative of the luminosity and mass of each star of that cluster, as well as possible approximations of their bolometric corrections (phot_study.py). This one also does the mass and luminosity distributions of the cluster and the luminosity and mass map according to the observed sky area.
 
