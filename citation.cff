@@ -1,5 +1,5 @@
 @software{phot_cluster,
-author =  "Gonçalo Martins et Bernardo Picão",
+author =  "Gonçalo Martins and Bernardo Picão",
 title = "PhotCluster",
 url = "https://github.com/Goncalotramps/PhotCluster",
 }
